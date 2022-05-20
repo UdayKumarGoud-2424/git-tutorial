@@ -5,7 +5,7 @@
 
 trigger:
 - main
-Uday Test Code
+----Uday Test Code----
 pool:
   vmImage: "windows-latest"
 
